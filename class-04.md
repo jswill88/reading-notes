@@ -50,5 +50,5 @@
 * Pair programming is useful for learning, because it involves listening, speaking, reading, and writing
 * Pair programming takes a little longer, but produces more polished code, so it requires less debugging
 * It is a more engaging experience and helps programmers focus
-* At Code Fellows this helps students develop interpersonal skills, and makse students more job-ready
+* At Code Fellows this helps students develop interpersonal skills, and makes students more job-ready
 
