@@ -1,6 +1,8 @@
 # More CSS Layout
 
 ## Layout
+* Use top and bottom properties with relative positioning
+* Specify the width of floating elements
 * Use `clear` with floating elements to make sure te right or left or both sides of a floating box won't appear next to other boxes, so it's more even. `clear: left`
 * If a containing element only has floating elements, the container may appear 0px tall. Fix this with `overflow: auto`
 * Mobile devices have higher resolutions than computer screens
