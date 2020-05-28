@@ -18,3 +18,20 @@
 * Designing **Mobile first** is a good idea, because then smaller devices won't have to load all the dexktop content before removing it
 * Overall, there are a lot of steps you need to take to make sure your site looks good on all devices
 
+## All About Floats
+* If you need a floating object to skip to the next line, use `clear: both`. `clear` values also include `left`, `right`, and `none`
+* The parent element collapses if it only contains floating objects
+* If you need to clear a float, you can use an empty div
+* You can use the `:after` selector after the the container to clear the float. You can add a new class to all containers that you want to add this to
+* Float is best for when you need text wrapping around certain elements
+
+## Don't Overthink It Grids
+* Use `[class*='col-]` to select all classes starting with `col-`
+* Assign values to each width of the columns
+* Clear the float of the container with `clear: both`
+* Use `box-sizing: border-box` on `*` to add the padding and borders to the element sizes
+* Add padding to elements
+
+## SMACSS
+* This is a style guide to help improve your CSS
+* It is a way to add structure to your CSS development
