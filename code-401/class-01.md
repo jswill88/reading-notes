@@ -47,6 +47,7 @@ A module is not required to have a `package.json` file. A module with this file 
 - https://dev.to/somedood/nodejs-breaking-javascript-out-of-the-browser-since-2009-53cn
 - https://nodesource.com/blog/ABC-of-JavaScript-and-Nodejs
 - https://en.wikipedia.org/wiki/Server_(computing)
+- https://medium.com/@osiolabs/use-module-exports-to-keep-node-js-code-organized-9379526ebac8
 
 
 
