@@ -31,7 +31,7 @@ A module is not required to have a `package.json` file. A module with this file 
 
 ## Vocabulary Terms
 |Term | Definition |  
-|--|--:|  
+|---|---:|  
 |ecosystem| Refers to all tools and aspects of a type of code. For example, JavaScript and Node.js are part of the same ecosystem because they use the same language |  
 |Node.js| A JavaScript runtime that allows JavaScript to run on any platform outside of a browser. JavaScript can run in any system that has Node.js|  
 |V8 Engine| The JavaScript engine that powers Chrome. It provides the runtime environment that runs JavaScript |  
