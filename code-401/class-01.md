@@ -29,7 +29,8 @@ A module is not required to have a `package.json` file. A module with this file 
       }
       ```
 
-## Vocabulary Terms
+## Vocabulary Terms  
+  
 |Term | Definition |  
 |---|---|  
 |ecosystem| Refers to all tools and aspects of a type of code. For example, JavaScript and Node.js are part of the same ecosystem because they use the same language |  
