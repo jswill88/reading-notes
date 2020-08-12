@@ -35,7 +35,7 @@ This could be used to run different operations on two numbers, depending on what
 ## Vocabulary Terms  
   
 |Term | Definition |  
-|---|---:| 
+|---|---| 
 |functional programming | Functional programming uses pure functions and higher order functions. The functions will be used as data. It maintains an immutable state.  https://www.freecodecamp.org/news/functional-programming-principles-in-javascript-1b8fc6c3563f/ |
 |pure function | A pure function will always give the same result if it is given the same arguments. It will not have any side-effects. It will not change over time. https://www.freecodecamp.org/news/functional-programming-principles-in-javascript-1b8fc6c3563f/|
 |higher-order function | Takes at least one function as an argument or returns a function as a result. https://www.freecodecamp.org/news/functional-programming-principles-in-javascript-1b8fc6c3563f/ |

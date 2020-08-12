@@ -21,7 +21,7 @@ This could be used for a jazz musician database. The pieces of data would be Mus
 ## Vocabulary Terms  
   
 |Term | Definition |  
-|---|---:| 
+|---|---| 
 |database | An organized collection of data. Used to store information that can be updated and retrieved. https://www.techopedia.com/definition/1185/database-db|
 |data model | Defines the structure of a database. They show how data is connedted and how it is stored in a database. https://www.tutorialspoint.com/dbms/dbms_data_models.htm|
 |CRUD | Stands for Create, Read, Update, and Delete. It is used for databases and web applications. They correspond with the HTTP methods POST, GET, PUT, AND DELETE. https://www.codecademy.com/articles/what-is-crud|
