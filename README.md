@@ -43,6 +43,7 @@ This page contains links to notes from different reading assignments in `Code 20
 * [Classes, Inheritance, Functional Programming](code-401/class-02.md)
 * [Data Modeling & NoSQL Databases](code-401/class-03.md)
 * [Advanced Mongo/Mongoose](code-401/class-04.md)
+* [Linked Lists](code-401/class-05.md)
 * [HTTP and REST](code-401/class-06.md)
 * [Express](code-401/class-07.md)
 * [Express Routing & Connected API](code-401/class-08.md)
