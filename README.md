@@ -48,6 +48,7 @@ This page contains links to notes from different reading assignments in `Code 20
 * [Express](code-401/class-07.md)
 * [Express Routing & Connected API](code-401/class-08.md)
 * [API Server](code-401/class-09.md)
+* [Stacks and Queues](code-401/class-10.md)
 * [Authentication](code-401/class-11.md)
 * [OAuth](code-401/class-12.md)
 * [Bearer Authorization](code-401/class-13.md)
