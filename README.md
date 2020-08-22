@@ -53,6 +53,7 @@ This page contains links to notes from different reading assignments in `Code 20
 * [OAuth](code-401/class-12.md)
 * [Bearer Authorization](code-401/class-13.md)
 * [Access Control (ACL)](code-401/class-14.md)
+* [Trees](code-401/class-15.md)
 * [Event Driven Applications](code-401/class-16.md)
 * [TCP Servers](code-401/class-17.md)
 * [Sockets.io](code-401/class-18.md)

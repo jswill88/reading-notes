@@ -11,4 +11,3 @@
 * Credentials are joined by a colon
 * In browsers use `atob` and `btoa` to convert to and from "Base64 Encoding"
 * With node you can `require('base-64')` to do the same thing. (`base64.encode(string)` and `base64.decode(encoded)`)
-* 
