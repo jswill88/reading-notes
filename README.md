@@ -1,4 +1,4 @@
-# Code 201 Reading Notes
+# Code Fellows Reading Notes
 
 This page contains links to notes from different reading assignments in `Code 201`, `Code 301`, and `Code 401`. The pages will feature notes that are of interest to me and will help me become a better developer.
 
