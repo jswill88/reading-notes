@@ -5,8 +5,11 @@ __Name 5 Javascript Frameworks (other than React)__
 1. Angular
 1. Ember 
 1. Backbone.js
-1. Svelte
-https://www.freecodecamp.org/news/complete-guide-for-front-end-developers-javascript-frameworks-2019/
+1. Svelte  
+<a/>
+
+https://www.freecodecamp.org/news/complete-guide-for-front-end-developers-javascript-frameworks-2019/  
+  
 __What's the difference between a framework and a library?__  
 A library offers pieces that you can add to your code where you need it. A framework is in charge of the code, and you plug in your sections of the code within a framework.  
 https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/
