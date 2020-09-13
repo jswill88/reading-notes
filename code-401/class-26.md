@@ -16,10 +16,10 @@ https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-libra
 
 ### Vocabulary
 |Term | Definition |  
-|---|---|
-| Rendering | This is what happens when an element is attached to the page or to the DOM. https://reactjs.org/docs/rendering-elements.html|
-| Templates | Templates allow you to break down HTML into smaller bits that can be reused. https://www.freecodecamp.org/news/how-to-modularize-html-using-template-engines-and-gulp-d1cb8af54138/|
-| State | State is a built-in object in React. When the state changes, the component rerenders.  https://www.w3schools.com/REACT/react_state.asp#:~:text=React%20components%20has%20a%20built,%2C%20the%20component%20re%2Drenders.| 
+|---|---|  
+| Rendering | This is what happens when an element is attached to the page or to the DOM. https://reactjs.org/docs/rendering-elements.html |
+| Templates | Templates allow you to break down HTML into smaller bits that can be reused. https://www.freecodecamp.org/news/how-to-modularize-html-using-template-engines-and-gulp-d1cb8af54138/ |
+| State | State is a built-in object in React. When the state changes, the component rerenders.  https://www.w3schools.com/REACT/react_state.asp#:~:text=React%20components%20has%20a%20built,%2C%20the%20component%20re%2Drenders. | 
 
 ### Links 
 * [React Docs](https://facebook.github.io/react/docs/hello-world.html)

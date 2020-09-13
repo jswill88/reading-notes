@@ -11,7 +11,7 @@ __What trick can a parent use to share all props with it’s children?__
 
 
 ### Vocabulary
-|Term | Definition |  
+| Term | Definition |  
 |---|---|
 | props.children | |
 | composition | |
