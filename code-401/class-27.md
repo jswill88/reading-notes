@@ -16,10 +16,10 @@ https://reactjs.org/docs/thinking-in-react.html
 ### Vocabulary
 |Term | Definition |  
 |---|---|
-| BDD | Stands for behavioral driven development. We run tests with React that will work with DOM nodes and find buttons, links, and text to make sure the page is behaving properly. https://medium.com/@jylglim/enzyme-vs-react-testing-library-a-tdd-bdd-comparison-with-examples-7b9f0b380a48| 
-| Acceptance Terms | This is a type of testing that tests an application for acceptability. The goal is to make sure that the application meets all the requirements. https://www.geeksforgeeks.org/acceptance-testing-software-testing/ |
-| mounting | This means putting elements in the DOM. The built in methods called are `constructor()`, `getDerivedStateFromProps()`, `render()`, and `componentDidMount()`  https://www.w3schools.com/react/react_lifecycle.asp  | 
-| build | React apps are built. Writing a react app is called building. https://reactjs.org/|
+| BDD | Stands for behavioral driven development. We run tests with React that will work with DOM nodes and find buttons, links, and text to make sure the page is behaving properly. https://medium.com/@jylglim/enzyme-vs-react-testing-library-a-tdd-bdd-comparison-with-examples-7b9f0b380a48|  
+| Acceptance Terms | This is a type of testing that tests an application for acceptability. The goal is to make sure that the application meets all the requirements. https://www.geeksforgeeks.org/acceptance-testing-software-testing/ |  
+| mounting | This means putting elements in the DOM. The built in methods called are `constructor()`, `getDerivedStateFromProps()`, `render()`, and `componentDidMount()`  https://www.w3schools.com/react/react_lifecycle.asp  |  
+| build | React apps are built. Writing a react app is called building. https://reactjs.org/|  
 
 
 ### Links: 
