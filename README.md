@@ -62,6 +62,7 @@ This page contains links to notes from different reading assignments in `Code 20
 * [React Testing and Deployment](code-401/class-27.md)
 * [Props and State](code-401/class-28.md)
 * [Component Composition](code-401/class-29.md)
+* [Hash Table](code-401/class-30.md)
 * [Hooks API](code-401/class-31.md)
 * [Custom Hooks](code-401/class-32.md)
 * [Context API](code-401/class-33.md)
