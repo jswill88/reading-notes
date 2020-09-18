@@ -1,7 +1,7 @@
 # Routing 
 __Do child components have direct access to props/state from the parent?__   
 The parent can pass its state though props to the children, and can pass other children through props.children.  
-https://reactjs.org/docs/composition-vs-inheritance.html
+https://reactjs.org/docs/composition-vs-inheritance.html  
 __When a component “wraps” another component, how does the child component’s output get rendered?__
 ```html
 <Main>
