@@ -4,7 +4,11 @@ __What does a component's lifecycle refer to?__
 This refers to the time from when a component mounts to when it unmounts. There are methods that you can call associated with this.  
 https://reactjs.org/docs/state-and-lifecycle.html  
 __Why do you sometimes need to “wrap” functions in `useCallback` when called from within `useEffect`?__  
+`useCallback` is nice because it fires a memoized version of the callback only if one of it's dependants has changed. This makes it faster and more efficient.  
+https://reactjs.org/docs/hooks-reference.html#usecallback  
 __Why are functional components preferred over class components?__  
+Functional components are less code, easier to read, perform better, and make it easier to separate components.  
+https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108  
 __What is wrong with the following code?__  
 ```js
 import React, {useState, useEffect} from 'react';
@@ -32,6 +36,8 @@ function MyComponent(props) {
     </div>);
 }
 ```
+`useEffect` should only be used with the count is changed in the code above, so it does not make sense for it to be in a `for` loop. `useEffect` should be outside of the `for` loop in this example.  
+
 |Term | Definition |  
 |---|---|
 | State Hook | This is the same as using `this.state` in a class component, but can be used as a hook with a functional component. The state does not have to be an object unlike with class components. https://reactjs.org/docs/hooks-state.html|
