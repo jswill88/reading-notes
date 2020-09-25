@@ -67,6 +67,7 @@ This page contains links to notes from different reading assignments in `Code 20
 * [Custom Hooks](code-401/class-32.md)
 * [Context API](code-401/class-33.md)
 * [`<Login />` and `<Auth />`](code-401/class-34.md)
+* [Graphs](code-401/class-35.md)
 * [Application State with Redux](code-401/class-36.md)
 * [Redux - Combined Reducers](code-401/class-37.md)
 * [Redux - Asynchronous Actions](code-401/class-38.md)
