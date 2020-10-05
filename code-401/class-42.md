@@ -1,0 +1,9 @@
+# Ethics
+
+## The employee backlash over Google’s censored search engine for China, explained  
+https://www.vox.com/2018/8/17/17704526/google-dragonfly-censored-search-engine-china  
+This article is about how Google employees worked together to stop Google from developing a technology that would help China censor content from its citizens. This is a great story, because it shows that employees have the power to influence the direction of their company to make sure it is doing the right thing. Large corporations may ignore morality when trying to seek a profit, so it is inspiring to see employees take action. I believe that the workers who pushed Google to make this decision did the right thing. I would not want to contribute to unethical activity, so this shows that there may be hope if I end up in a similar situation.
+
+## The ethical dilemmas of self-driving cars
+https://www.theglobeandmail.com/globe-drive/culture/technology/the-ethical-dilemmas-of-self-drivingcars/article37803470/  
+This article is a broad look at some of the ethical issues around self-driving cars. This is an important issue, because at some point there will be many self-driving cars on the roads, and they will be involved in accidents. I believe that it would be much more ethical to have fewer accidents with fewer victims, but I also agree that it is kind of eerie that sometimes this may endager a vehicle's own occupants. Along with increased safety, the fact that people will not have to focus on driving so much and may not even need to own cars will lead to greater quality of life. When loking at the ethics of self-driving cars, we also need to compare the negatives of our current car use. Overall, this seems to be something that is coming, and if the statistics in this article are accurate, then it will lead to a more ethical world.
