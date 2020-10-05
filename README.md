@@ -73,6 +73,6 @@ This page contains links to notes from different reading assignments in `Code 20
 * [Redux - Asynchronous Actions](code-401/class-38.md)
 * [Redux - Additional Topics](code-401/class-39.md)
 * [React Native](code-401/class-41.md)
-* [](code-401/class-42.md)
+* [Ethics](code-401/class-42.md)
 * [Gatsby, next.js, and other JS Frameworks](code-401/class-43.md)
 * [](code-401/class-44.md)
